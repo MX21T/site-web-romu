@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Header */
+header {
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+header .title {
+    font-size: 30px;
+}
+
+header .nav-bar {
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+header .nav-bar .work {
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
+
+header .nav-bar .about {
+    text-decoration: none;
+    color: black;
+    margin-left: 15px;
+}
+
+header .nav-bar .service {
+    text-decoration: none;
+    color: black;
+    margin-left: 15px;
+}
+
+header .nav-bar .project {
+    text-decoration: none;
+    color: black;
+    margin-left: 15px;
+}
+
+header .nav-bar .contact {
+    color: white;
+    margin-left: 15px;
+    background-color: black;
+    padding: 25px;
+    text-decoration: none;
+}
+/* End header */
+
+/* Body */
+body {
+    
+}
+/* End body */
